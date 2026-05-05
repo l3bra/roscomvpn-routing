@@ -40,7 +40,7 @@
     "geosite:github",
   
     "geosite:youtube",
-    "geosite:telegram"
+    "geosite:telegram",
      "geosite:twitch",
   ],
   "ProxyIp": [],
