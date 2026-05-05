@@ -66,7 +66,7 @@ jobs:
 
           max_tag="$(printf "%s\n%s\n" "$geoip_tag" "$geosite_tag" | sort -r | head -n 1)"
 
-          if [[ "$current_tag" < "$max_tag" ]]; then
+          if false; then
             now_epoch="$(date -u +%s)"
             geoip_url="https://cdn.jsdelivr.net/gh/${GEOIP_REPO}@${geoip_tag}/release/geoip.dat"
             geosite_url="https://cdn.jsdelivr.net/gh/${GEOSITE_REPO}@${geosite_tag}/release/geosite.dat"
