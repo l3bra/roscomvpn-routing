@@ -1,7 +1,7 @@
 {
   "Name": "RoscomVPN",
-  "GlobalProxy": "true",
-  "UseChunkFiles": "true",
+  "GlobalProxy": "false",
+  "UseChunkFiles": "false",
   "RemoteDns": "8.8.8.8",
   "DomesticDns": "77.88.8.8",
   "RemoteDNSType": "DoH",
@@ -41,14 +41,13 @@
   
     "geosite:youtube",
     "geosite:telegram"
-//ттрч//
      "geosite:twitch",
   ],
   "ProxyIp": [],
   "BlockSites": [
     "geosite:win-spy",
     "geosite:torrent",
-    "geosite:category-ads"
+    "geosite:category-ads",
 "geosite:twitch-ads",
   ],
   "BlockIp": [],
