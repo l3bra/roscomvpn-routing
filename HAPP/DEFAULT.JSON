@@ -28,7 +28,6 @@
     "geosite:riot",
     "geosite:escapefromtarkov",
     "geosite:steam",
-    "geosite:twitch",
     "geosite:pinterest",
     "geosite:faceit"
   ],
@@ -39,15 +38,18 @@
   "ProxySites": [
     "geosite:google-play",
     "geosite:github",
-    "geosite:twitch-ads",
+  
     "geosite:youtube",
     "geosite:telegram"
+//ттрч//
+     "geosite:twitch",
   ],
   "ProxyIp": [],
   "BlockSites": [
     "geosite:win-spy",
     "geosite:torrent",
     "geosite:category-ads"
+"geosite:twitch-ads",
   ],
   "BlockIp": [],
   "DomainStrategy": "IPIfNonMatch",
