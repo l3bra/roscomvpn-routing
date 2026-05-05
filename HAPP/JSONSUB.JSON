@@ -1,6 +1,6 @@
 {
   "Name": "RoscomVPN JSON",
-  "GlobalProxy": "true",
+  "GlobalProxy": "false",
   "UseChunkFiles": "false",
   "RemoteDns": "8.8.8.8",
   "DomesticDns": "77.88.8.8",
