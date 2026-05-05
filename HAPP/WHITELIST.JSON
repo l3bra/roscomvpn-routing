@@ -10,8 +10,8 @@
   "DomesticDNSType": "DoH",
   "DomesticDNSDomain": "https://77.88.8.8/dns-query",
   "DomesticDNSIP": "77.88.8.8",
-  "Geoipurl": "https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geoip@202605050549/release/geoip.dat",
-  "Geositeurl": "https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@202604152235/release/geosite.dat",
+  "Geoipurl": "https://cdn.jsdelivr.net/gh/l3bra/roscomvpn-geoip@master/release/geoip.dat",
+"Geositeurl": "https://cdn.jsdelivr.net/gh/l3bra/roscomvpn-geosite@master/release/geosite.dat",
   "LastUpdated": "1777960198",
   "DnsHosts": {
     "lkfl2.nalog.ru": "213.24.64.175",
